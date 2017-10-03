@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Просто Джава</string>
+    <string name="thank_you">Дякуємо!</string>
+    <string name="toppings">Наповнювачі</string>
+    <string name="whipped_cream">Збиті вершки</string>
+    <string name="chocolate">Чоколята</string>
+    <string name="order">Замовити</string>
+    <string name="quantity">Кількість</string>
+    <string name="hint_name">Ім\'я</string>
+    <string name="less_than_1">Ви не можете замовити менш ніж одне горня кави</string>
+    <string name="more_than_100">Ви не можете замовити більш ніж 100 горнят кави</string>
+    <string name="no">Ні</string>
+    <string name="yes">Так</string>
+    <string name="chocolate_check">Додати чоколяти? <xliff:g example="Yes" id="yes_no">%s</xliff:g></string>
+    <string name="customer_name">Ім\'я: <xliff:g example="Anna" id="name">%s</xliff:g></string>
+    <string name="justjava_order">Замовлення ПростоДжава для <xliff:g example="Anna" id="name">%s</xliff:g></string>
+    <string name="quantity_check">Кількість: <xliff:g example="3" id="quantity">%d</xliff:g></string>
+    <string name="total_check">Всього: <xliff:g example="25" id="price">%d</xliff:g>₴</string>
+    <string name="whipped_cream_check">Додати збиті вершки? <xliff:g example="Yes" id="yes_no">%s</xliff:g></string>
+</resources>
